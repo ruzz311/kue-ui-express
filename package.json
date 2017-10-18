@@ -16,7 +16,7 @@
   "dependencies": {
     "jsdom": "^9.11.0",
     "serve-static": "^1.11.2",
-    "kue-ui-client": "ruzz311/kue-ui#fc9d489"
+    "kue-ui-client": "ruzz311/kue-ui#fishbrain-app"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^10.0.1",
